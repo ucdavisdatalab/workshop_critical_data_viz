@@ -1,7 +1,4 @@
-# workshop_critical_data_viz
-Critical approach to data visualization
-
-# Workshop: Excelling with Excel: Keeping Data Tidy
+# Workshop: Critical Approach to Data Visualization
 This repo is the home for DataLab's Data Feminism Research and Learning Cluster led "Critical Approach to Data Visualization" workshop which unpacks the subjective process of data visualization and its relationship to concepts of diversity, equity and inclusion. This workshop critically explores how data can be used to uphold and perpetuate, or quantify and demonstrate structural oppression. Through this workshop learners practice the technique of “data visceralization,” the process of experiencing differences in data and understanding them viscerally,
 
 ### Maintainers
