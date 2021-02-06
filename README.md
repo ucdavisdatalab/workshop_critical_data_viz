@@ -4,7 +4,7 @@ This repo is the home for DataLab's Data Feminism Research and Learning Cluster 
 ### Maintainers
 * Pamela Reynolds, UC Davis DataLab
 
-### Authors
+### Contributors
 * Emily Merchant, UC Davis Science and Technology Studies
 * Lindsay Poirier, UC Davis Science and Technology Studies
 
