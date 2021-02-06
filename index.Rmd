@@ -1,0 +1,33 @@
+---
+title: Critical Approach to Data Visualization
+author: [Drs. Pamela L. Reynolds, Emily Merchant, Lindsay Poirier]
+date: February 12, 2021
+output:
+   rmdformats::readthedown
+---
+
+```{r, echo=FALSE}
+url1 <- "add the url path here for any images"
+library(knitr)
+```
+
+![](img/datalab-logo-full-color-rgb.png)
+
+# Overview
+
+This workshop led by UC Davis' Data Feminism research and learning cluster unpacks the subjective process of data visualization and its relationship to concepts of diversity, equity and inclusion. We’ll critically explore how data can be used to uphold and perpetuate, or quantify and demonstrate structural oppression. Through this workshop learners will practice the technique of “data visceralization,” the process of experiencing differences in data and understanding them viscerally.
+
+# Introduction
+
+## Learning Objectives 
+
+After this workshop, participants should be able to:
+
+  * 
+  *
+  *
+
+
+## Before we begin
+
+# 
