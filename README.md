@@ -9,7 +9,7 @@ This repo is the home for DataLab's Data Feminism Research and Learning Cluster 
 * Lindsay Poirier, UC Davis Science and Technology Studies
 
 ### Links
-* 2021 workshop offering reader: 
+* 2021 workshop offering reader: https://ucdavisdatalab.github.io/workshop_critical_data_viz/
 * 2021 workshop offering event webpage: https://datalab.ucdavis.edu/eventscalendar/critical-approach-to-data-visualization/
 
 ### Protocols
