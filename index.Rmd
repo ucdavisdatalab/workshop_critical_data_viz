@@ -23,11 +23,77 @@ This workshop led by UC Davis' Data Feminism research and learning cluster unpac
 
 After this workshop, participants should be able to:
 
-  * 
-  *
-  *
+  * Critically read a dataset and its documentation
+  * Use the principles of data feminism to visualize data responsibly
+  * Consider visceralizing data in addition to visualizing them
 
 
-## Before we begin
+# Before we begin
 
-# 
+This workshop will involve some group work in breakout rooms. In our first breakout session, you will be able to choose the group you want to join. If possible, please join one that has no more than seven other members (eight people total). Make a note of the group number so that you can return to the same group for subsequent breakout sessions. Please work with the dataset assigned to your group:
+
+## Groups 1 and 2: Covid-19 deaths
+
+ * [History and provenance](https://www.scientificamerican.com/article/how-covid-19-deaths-are-counted1/)
+ * **Data:** [New York Times](https://github.com/nytimes/covid-19-data); [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+ * [What counts?](https://theconversation.com/died-from-or-died-with-covid-19-we-need-a-transparent-approach-to-counting-coronavirus-deaths-145438)
+ * **Controversy:** [Why we don't know the true death rate](https://www.nytimes.com/2020/04/17/us/coronavirus-death-rate.html); [Trump suggests virus death count is inflated](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-death-toll.html)
+ 
+## Groups 3 and 4: Hurricane Maria death toll
+
+ * [History and provenance](https://simplystatistics.org/2018/09/28/the-complex-process-of-obtaining-puerto-rico-mortality-data-a-timeline/)
+ * **Data:** [U.S. Government](https://twitter.com/DavidBegnaud/status/1002658303904829442); [Harvard Chan School of Public Health](https://github.com/c2-d2/pr_mort_official); [Hurricane Maria Deaths Database](https://hurricanemariasdead.com/)
+ * [What counts?](https://apnews.com/article/910d274805054e3fa8ebf07a550c3920)
+ * [Controversy](https://www.nytimes.com/2018/06/02/us/puerto-rico-death-tolls.html)
+ * [Further reading](https://www.nature.com/articles/d41586-019-00442-0)
+ 
+## Groups 5 and 6: Drone warfare civilian casualties
+
+ * [History and provenance](https://www.lawfareblog.com/civilian-casualties-collateral-damage)
+ * [Data](https://www.thebureauinvestigates.com/projects/drone-war)
+ * [What counts?](https://web.law.columbia.edu/sites/default/files/microsites/human-rights-institute/COLUMBIACounting%20Drone%20Strike%20DeathsSUMMARY.pdf)
+ * [Controversy](https://www.nytimes.com/2019/03/30/opinion/drones-civilian-casulaties-trump-obama.html)
+ * [Further reading](https://www.cmu.edu/chrs/statistics_program/conflict-death-events/counting-civilian-casualties.html)
+ 
+## Groups 7 and 8: Maternal mortality
+
+ * [History and provenance](https://www.propublica.org/article/how-many-american-women-die-from-causes-related-to-pregnancy-or-childbirth)
+ * [Data](https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.MNCH_MMR+MNCH_LTR_MATERNAL_DEATH+MNCH_MATERNAL_DEATHS..&startPeriod=2016&endPeriod=)
+ * [What counts?](https://journalofethics.ama-assn.org/article/who-counts-what-counts-place-and-limits-perinatal-mortality-measures/2018-03)
+ * [Controversy](https://www.tandfonline.com/doi/pdf/10.1016/S0968-8080(11)37550-7)
+ * [Further reading](https://www.cdc.gov/nchs/data/series/sr_03/sr03_044-508.pdf)
+ 
+## Groups 9 and 10: Police shootings
+
+ * [History and provenance](https://time.com/5861953/police-reform-use-of-force-database/)
+ * **Data:** [Washington Post](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/); [Mapping Police Violence](https://mappingpoliceviolence.org/)
+ * [What counts?](https://www.motherjones.com/anti-racism-police-protest/2020/06/we-still-dont-really-know-how-many-americans-are-killed-or-injured-by-police/)
+ * [Controversy](https://www.brookings.edu/blog/how-we-rise/2020/06/26/theres-truth-in-numbers-in-policing-until-there-isnt/)
+ 
+## Groups 11 and 12: Medical error deaths
+
+ * **History and provenance:** [Johns Hopkins University](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us); [British Medical Journal](http://www.tirf-labs.com/med%20error%20bmj.i2139.full.pdf)
+ * [Data](https://oig.hhs.gov/oei/reports/oei-06-09-00090.pdf)
+ * [What counts?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3211566/)
+ * [Controversy](https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error)
+
+
+# Critical Approach to Data Visualization
+
+## Step one: Read data critically 
+
+In this section, you will learn the difference between denotative, connotatative, and deconstructive readings of a dataset; how to do each; and why all three are necessary in order to analyze and visualize your data accurately and responsibly.
+
+**In your breakout room:** Using the links provided above, explore the dataset assigned to your group. Choose *one* variable to read denotatively, connotatively, and deconstructively. Select one person to report on these readings to the workshop as a whole.
+
+## Step two: Visualize your data responsibly
+
+In this section, you will learn how to apply your denotative, connotative, and deconstructive readings to standard data visualizations. We will go over some of the principles of feminist data visualization — such as acknowledging your standpoint, showing your work, and giving credit where due — and discuss how to use them in practice.
+
+**In your breakout room:** How would you visualize the variable you analyzed in the previous step? How would you incorporate the principles of feminist data visualization? What kind of argument would your visualization make? Choose one person to report back to the workshop.
+
+## Step three: Visceralize your data
+
+In this section, we will discuss strategies for going beyond standard data visualizations to consider ways of presenting data that might evoke the appropriate emotions in your audience.
+
+**In your breakout room:** If you were not constrained by standard data visualization software (or your own artistic abilities), how would you visceralize the variable you have been working with? Choose one person to report back to the workshop.
