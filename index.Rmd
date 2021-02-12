@@ -109,3 +109,10 @@ In this section, you will learn how to apply your denotative, connotative, and d
 In this section, we will discuss strategies for going beyond standard data visualizations to consider ways of presenting data that might evoke the appropriate emotions in your audience.
 
 **In your breakout room:** If you were not constrained by standard data visualization software (or your own artistic abilities), how would you visceralize the variable you have been working with? Choose one person to report back to the workshop.
+
+
+# Resources
+
+Check out our curated [Data Feminism reading list](https://www.zotero.org/groups/2324756/data_feminism/items).
+
+UC Davis affiliates are welcome to join [DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/).
