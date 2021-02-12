@@ -1460,45 +1460,6 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 </script>
-    <style type="text/css">
-a.anchor-section {margin-left: 10px; visibility: hidden; color: inherit;}
-a.anchor-section::before {content: '#';}
-.hasAnchor:hover a.anchor-section {visibility: visible;}
-</style>
-    <script>// Anchor sections v1.0 written by Atsushi Yasumoto on Oct 3rd, 2020.
-document.addEventListener('DOMContentLoaded', function() {
-  // Do nothing if AnchorJS is used
-  if (typeof window.anchors === 'object' && anchors.hasOwnProperty('hasAnchorJSLink')) {
-    return;
-  }
-
-  const h = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
-
-  // Do nothing if sections are already anchored
-  if (Array.from(h).some(x => x.classList.contains('hasAnchor'))) {
-    return null;
-  }
-
-  // Use section id when pandoc runs with --section-divs
-  const section_id = function(x) {
-    return ((x.classList.contains('section') || (x.tagName === 'SECTION'))
-            ? x.id : '');
-  };
-
-  // Add anchors
-  h.forEach(function(x) {
-    const id = x.id || section_id(x.parentElement);
-    if (id === '') {
-      return null;
-    }
-    let anchor = document.createElement('a');
-    anchor.href = '#' + id;
-    anchor.classList = ['anchor-section'];
-    x.classList.add('hasAnchor');
-    x.appendChild(anchor);
-  });
-});
-</script>
     
     
     
@@ -1617,6 +1578,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <li><a href="#step-two-visualize-your-data-responsibly">Step two: Visualize your data responsibly</a></li>
       <li><a href="#step-three-visceralize-your-data">Step three: Visceralize your data</a></li>
       </ul></li>
+      <li><a href="#resources">Resources</a></li>
       </ul>
     </div>
     <div id="postamble" data-toggle="wy-nav-shift" class="status">
@@ -1733,6 +1695,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>In this section, we will discuss strategies for going beyond standard data visualizations to consider ways of presenting data that might evoke the appropriate emotions in your audience.</p>
 <p><strong>In your breakout room:</strong> If you were not constrained by standard data visualization software (or your own artistic abilities), how would you visceralize the variable you have been working with? Choose one person to report back to the workshop.</p>
 </div>
+</div>
+<div id="resources" class="section level1">
+<h1>Resources</h1>
+<p>Check out our curated <a href="https://www.zotero.org/groups/2324756/data_feminism/items">Data Feminism reading list</a>.</p>
+<p>UC Davis affiliates are welcome to join <a href="https://datalab.ucdavis.edu/data-feminism/">DataLab’s Data Feminism research and learning cluster</a>.</p>
 </div>
 </div>
 
