@@ -38,6 +38,8 @@ This workshop will involve some group work in breakout rooms. In our first break
  * **Data:** [New York Times](https://github.com/nytimes/covid-19-data); [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
  * [What counts?](https://theconversation.com/died-from-or-died-with-covid-19-we-need-a-transparent-approach-to-counting-coronavirus-deaths-145438)
  * **Controversy:** [Why we don't know the true death rate](https://www.nytimes.com/2020/04/17/us/coronavirus-death-rate.html); [Trump suggests virus death count is inflated](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-death-toll.html)
+
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/1h2mnf2ZWB2xgShCNRMWAuOXLeI7exSAmmpqtH2kUgbM/edit?usp=sharing)
  
 ## Groups 3 and 4: Hurricane Maria death toll
 
@@ -47,6 +49,8 @@ This workshop will involve some group work in breakout rooms. In our first break
  * [Controversy](https://www.nytimes.com/2018/06/02/us/puerto-rico-death-tolls.html)
  * [Further reading](https://www.nature.com/articles/d41586-019-00442-0)
  
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/10DkGnmQrgbNCt-8SyVGQsHFAsHImzBPUO83Qm7cXtHc/edit?usp=sharing)
+ 
 ## Groups 5 and 6: Drone warfare civilian casualties
 
  * [History and provenance](https://www.lawfareblog.com/civilian-casualties-collateral-damage)
@@ -54,6 +58,8 @@ This workshop will involve some group work in breakout rooms. In our first break
  * [What counts?](https://web.law.columbia.edu/sites/default/files/microsites/human-rights-institute/COLUMBIACounting%20Drone%20Strike%20DeathsSUMMARY.pdf)
  * [Controversy](https://www.nytimes.com/2019/03/30/opinion/drones-civilian-casulaties-trump-obama.html)
  * [Further reading](https://www.cmu.edu/chrs/statistics_program/conflict-death-events/counting-civilian-casualties.html)
+
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/1DBIqbdk-Walc99K0fGrKoh03jtvlcWvUkZkb5eTi9Sk/edit?usp=sharing)
  
 ## Groups 7 and 8: Maternal mortality
 
@@ -62,6 +68,8 @@ This workshop will involve some group work in breakout rooms. In our first break
  * [What counts?](https://journalofethics.ama-assn.org/article/who-counts-what-counts-place-and-limits-perinatal-mortality-measures/2018-03)
  * [Controversy](https://www.tandfonline.com/doi/pdf/10.1016/S0968-8080(11)37550-7)
  * [Further reading](https://www.cdc.gov/nchs/data/series/sr_03/sr03_044-508.pdf)
+
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/1jBIbvCSbJ4liP_g8nOu_2Nqb2PP8NuFL1hMOozF1T58/edit?usp=sharing)
  
 ## Groups 9 and 10: Police shootings
 
@@ -70,12 +78,16 @@ This workshop will involve some group work in breakout rooms. In our first break
  * [What counts?](https://www.motherjones.com/anti-racism-police-protest/2020/06/we-still-dont-really-know-how-many-americans-are-killed-or-injured-by-police/)
  * [Controversy](https://www.brookings.edu/blog/how-we-rise/2020/06/26/theres-truth-in-numbers-in-policing-until-there-isnt/)
  
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/1DSTFMyHvse9AdcRUtXOTc4G8Jqyu9NZXWy8_Gl7G5zM/edit?usp=sharing)
+ 
 ## Groups 11 and 12: Medical error deaths
 
  * **History and provenance:** [Johns Hopkins University](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us); [British Medical Journal](http://www.tirf-labs.com/med%20error%20bmj.i2139.full.pdf)
  * [Data](https://oig.hhs.gov/oei/reports/oei-06-09-00090.pdf)
  * [What counts?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3211566/)
  * [Controversy](https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error)
+
+[Jamboard for Breakout Sessions](https://jamboard.google.com/d/10AJN8dGj_jtOncinakaF7zOj6wpKiXzbGvZO9xrT474/edit?usp=sharing)
 
 
 # Critical Approach to Data Visualization
