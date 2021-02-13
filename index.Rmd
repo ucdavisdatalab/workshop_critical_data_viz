@@ -8,8 +8,8 @@ output:
 
 ```{r, echo=FALSE}
 url1 <- "add the url path here for any images"
-url2<-"https://raw.githubusercontent.com/ucdavisdatalab/workshop_critical_data_viz/blob/main/img/CriticalDataViz_USPopulation_Ruggles_et_al_2020.JPG"
-url3<-"https://raw.githubusercontent.com/ucdavisdatalab/workshop_critical_data_viz/master/img/CriticalDataViz_USPopulation_Ruggles_et_al_2020.JPG/CriticalDataViz_USPopulation_Merchant_2020.JPG"
+url2<-"img/CriticalDataViz_USPopulation_Ruggles_et_al_2020.JPG"
+url3<-"img/CriticalDataViz_USPopulation_Merchant_2020.JPG"
 library(knitr)
 ```
 
