@@ -34,7 +34,7 @@ After this workshop, participants should be able to:
 
 ## Before We begin
 
-This workshop provides strategies for thinking critically about your data. It will help you visualize your data in more responsible and responsive ways, and help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. This workshop arose from efforts by the [UC Davis DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/), established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the [Feminist Research Institute](https://fri.ucdavis.edu/). 
+This workshop provides strategies for thinking critically about your data. It will help you visualize your data in more responsible and responsive ways, and help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. This workshop arose from efforts by the [UC Davis DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/), established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the [Feminist Research Institute](https://fri.ucdavis.edu/). You are welcome to use this workshop "reader" and the materials herein for your own instruction, provided that appropriate attribution is given.
 
 # Critical Approaches to Data Visualization
 
@@ -68,7 +68,7 @@ A better visualization of the US Census data could look like:
 
 ![](`r url3`)
 
-### Step 3: Visceralize Your Data
+## Step 3: Visceralize Your Data
 
 *"One death is a tragedy, a million deaths a statistic"* (attributed to Stalin, 1947) 
 
@@ -167,8 +167,9 @@ In this section, we will discuss strategies for going beyond standard data visua
 
 Check out our curated [Data Feminism reading list](https://www.zotero.org/groups/2324756/data_feminism/items).
 
-D'lgnazio, C., and Klein, L. 2020. Data Feminism. Cambridge, Massachusetts: The MIT Press.
+D'lgnazio, C., and Klein, L. 2020. [Data Feminism](https://data-feminism.mitpress.mit.edu/). Cambridge, Massachusetts: The MIT Press.
 
-Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rhode, J., Hoffmann, A..
+Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rhode, J., Hoffmann, A.L., Salehi, N., Nakamura, L. 2019. Feminist Data Manifest-No. Retrieved from: [https://www.manifestno.com/](https://www.manifestno.com/).
+
 
 UC Davis affiliates are welcome to join [DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/).
