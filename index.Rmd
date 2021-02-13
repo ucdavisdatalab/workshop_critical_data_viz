@@ -28,7 +28,54 @@ After this workshop, participants should be able to:
   * Consider visceralizing data in addition to visualizing them
 
 
-# Before we begin
+## Before We begin
+
+This workshop provides strategies for thinking critically about your data. It will help you visualize your data in more responsible and responsive ways, and help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. This workshop arose from efforts by the [UC Davis DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/), established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the [Feminist Research Institute](https://fri.ucdavis.edu/). 
+
+# Critical Approaches to Data Visualization
+
+## Step 1: Read Your Data Carefully
+
+To build a responsible data visualization of a variable, or variables, in a dataset, you should critically explore the data. The following types of reading provide a helpful framework:
+
+* **Denotative reading** - What is the technical definition underlying this statistic? You can often find this information in the data dictionaries and metadata (when available).
+* **Connotative reading** - What is the cultural history of this definition? What controversies are there? How has this definition changed over time? Data collection documentation and grey literature can help you dig into this.
+* **Deconstructive reading** - What is included by this definition? Perform critical analyses of the definitions, categories and structures to begin to understand who and what is being left out.
+
+Example: a published visualization of population by sex from the US Census:
+
+
+A careful read of the data used in this visualization tells us:
+
+* Dennotative: Sex classification is either male or female. 
+* Connotative reading: Prior to 1950, no definition was provided except M for male and F for female; the classification was done by enumerator inference and was assumed to be obvious. Starting in 1950, enumerators were provided with guidelines to use name or relationship to head of household to guide classification first, and to only ask if that information did not make it obvious. This indicates that "sex" may actually indicate gender prior to 1960.In 1970 sex was self-reported as either male or female. The 2020 census defined sex as "biological sex." This is problematic for resolving with historical cesnsus data. The National LGBTQ Task Force's Guide to the 2020 Census advised: "self-identify here in the way that feels most comfortable ot you... Your answer to this question does not need to match what you have on official documents... answer this question in whichever way feels best to you." 
+* Deconstructive reading: Transgender, non-binary, and gender nonconforming individuals are marginalized, exlcuded, and not accurately characterized in the dataset.
+
+## Step 2: Visualizing Data Responsibly
+
+* **Bring back the bodies** - be clear on who is included, and who is excluded.
+* **Show your work and give credit where due** - cite your sources, methods, etc.
+* **Acknowledge your standpoint** -  it is impossible to create perfectly objective visualizations.
+* **Use appropriate text** - titles, labels, captions, etc. can help readers better understand the complexities, and caveats, of the data.
+
+
+A better visualization of the US Census data could look like:
+
+
+
+### Step 3: Visceralize Your Data
+
+*"One death is a tragedy, a million deaths a statistic"* (attributed to Stalin, 1947) 
+
+How can you convey the importance of the data by evoking emotion?
+
+Examples:
+
+* [US Gun Deaths](https://guns.periscopic.com/?year=2013)
+* [COVID deaths](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html)
+
+
+# Case Studies
 
 This workshop will involve some group work in breakout rooms. In our first breakout session, you will be able to choose the group you want to join. If possible, please join one that has no more than seven other members (eight people total). Make a note of the group number so that you can return to the same group for subsequent breakout sessions. Please work with the dataset assigned to your group:
 
@@ -90,7 +137,7 @@ This workshop will involve some group work in breakout rooms. In our first break
 [Jamboard for Breakout Sessions](https://jamboard.google.com/d/10AJN8dGj_jtOncinakaF7zOj6wpKiXzbGvZO9xrT474/edit?usp=sharing)
 
 
-# Critical Approach to Data Visualization
+# Exercises
 
 ## Step one: Read data critically 
 
@@ -114,5 +161,9 @@ In this section, we will discuss strategies for going beyond standard data visua
 # Resources
 
 Check out our curated [Data Feminism reading list](https://www.zotero.org/groups/2324756/data_feminism/items).
+
+D'lgnazio, C., and Klein, L. 2020. Data Feminism. Cambridge, Massachusetts: The MIT Press.
+
+Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rhode, J., Hoffmann, A..
 
 UC Davis affiliates are welcome to join [DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/).
