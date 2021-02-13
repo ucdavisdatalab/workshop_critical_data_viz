@@ -34,29 +34,37 @@ After this workshop, participants should be able to:
 
 ## Before We begin
 
-This workshop provides strategies for thinking critically about your data. It will help you visualize your data in more responsible and responsive ways, and help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. This workshop arose from efforts by the [UC Davis DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/), established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the [Feminist Research Institute](https://fri.ucdavis.edu/). You are welcome to use this workshop "reader" and the materials herein for your own instruction, provided that appropriate attribution is given.
+This workshop provides strategies for thinking critically about your data and help you visualize your data in more responsible and responsive ways. It will also help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. You can apply the frameworks described here to create data visualizations via any technology or medium.
+
+This workshop will be interactive - you will work through case studies with your colleagues, brainstorm together, and share out what you have uncovered.
+
+This workshop arose from efforts by the [UC Davis DataLab's Data Feminism research and learning cluster](https://datalab.ucdavis.edu/data-feminism/), established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the [Feminist Research Institute](https://fri.ucdavis.edu/). 
+
+*You are welcome to use this workshop "reader" and the materials herein for your own instruction, provided that appropriate attribution is given.*
 
 # Critical Approaches to Data Visualization
 
 ## Step 1: Read Your Data Carefully
 
-To build a responsible data visualization of a variable, or variables, in a dataset, you should critically explore the data. The following types of reading provide a helpful framework:
+To build a responsible data visualization of a variable in a dataset, you should first critically explore the data. The following types of readings of your data provide a helpful framework:
 
 * **Denotative reading** - What is the technical definition underlying this statistic? You can often find this information in the data dictionaries and metadata (when available).
 * **Connotative reading** - What is the cultural history of this definition? What controversies are there? How has this definition changed over time? Data collection documentation and grey literature can help you dig into this.
 * **Deconstructive reading** - What is included by this definition? Perform critical analyses of the definitions, categories and structures to begin to understand who and what is being left out.
 
-Example: a published visualization of population by sex from the US Census:
+To illustrate this process, let's look at a published visualization of population by sex from the U.S. Census:
 
 ![](`r url2`)
 
-A careful read of the data used in this visualization tells us:
+A careful read of the data, its documentation, and surrounding literature behind in this visualization tells us:
 
-* Dennotative: Sex classification is either male or female. 
-* Connotative reading: Prior to 1950, no definition was provided except M for male and F for female; the classification was done by enumerator inference and was assumed to be obvious. Starting in 1950, enumerators were provided with guidelines to use name or relationship to head of household to guide classification first, and to only ask if that information did not make it obvious. This indicates that "sex" may actually indicate gender prior to 1960.In 1970 sex was self-reported as either male or female. The 2020 census defined sex as "biological sex." This is problematic for resolving with historical cesnsus data. The National LGBTQ Task Force's Guide to the 2020 Census advised: "self-identify here in the way that feels most comfortable ot you... Your answer to this question does not need to match what you have on official documents... answer this question in whichever way feels best to you." 
-* Deconstructive reading: Transgender, non-binary, and gender nonconforming individuals are marginalized, exlcuded, and not accurately characterized in the dataset.
+* **Dennotative**: Sex classification is either male or female. 
+* **Connotative**: Prior to 1950, no definition was provided except M for male and F for female; the classification was done by enumerator inference and was assumed to be obvious. Starting in 1950, enumerators were provided with guidelines to use name or relationship to head of household to guide classification first, and to only ask if that information did not make it obvious. This indicates that "sex" may actually indicate gender prior to 1960.In 1970 sex was self-reported as either male or female. The 2020 census defined sex as "biological sex." This is problematic for resolving with historical census data. The National LGBTQ Task Force's Guide to the 2020 Census advised: "self-identify here in the way that feels most comfortable to you... Your answer to this question does not need to match what you have on official documents... answer this question in whichever way feels best to you." 
+* **Deconstructive**: Transgender, non-binary, and gender nonconforming individuals are marginalized, excluded, and not accurately characterized in the dataset.
 
 ## Step 2: Visualizing Data Responsibly
+
+Using what you learned above, you can now start to think about creating a more responsible data visualization. To do so, think about how you could:
 
 * **Bring back the bodies** - be clear on who is included, and who is excluded.
 * **Show your work and give credit where due** - cite your sources, methods, etc.
@@ -64,17 +72,15 @@ A careful read of the data used in this visualization tells us:
 * **Use appropriate text** - titles, labels, captions, etc. can help readers better understand the complexities, and caveats, of the data.
 
 
-A better visualization of the US Census data could look like:
+Using those principles, we can improve the visualization:
 
 ![](`r url3`)
 
 ## Step 3: Visceralize Your Data
 
-*"One death is a tragedy, a million deaths a statistic"* (attributed to Stalin, 1947) 
+*"One death is a tragedy, a million deaths a statistic"* (attributed to Stalin, 1947). Now that you can create more responsible data visualizations, how can you demonstrate the importance of a message it conveys? One way to do that is visceralize your data to evoke emotion.
 
-How can you convey the importance of the data by evoking emotion?
-
-Examples:
+These are two examples of data visceralizations. How do these compare to a statistic? How do they make you feel? 
 
 * [US Gun Deaths](https://guns.periscopic.com/?year=2013)
 * [COVID deaths](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html)
