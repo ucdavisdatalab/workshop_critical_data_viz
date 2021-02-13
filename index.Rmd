@@ -13,9 +13,15 @@ library(knitr)
 
 ![](img/datalab-logo-full-color-rgb.png)
 
+
+url3<-"https://raw.githubusercontent.com/ucdavisdatalab/adventures_in_data_science/master/img/CriticalDataViz_USPopulation_Ruggles_et_al_2020.JPG/CriticalDataViz_USPopulation_Merchant_2020.JPG"
+
+url2<-"https://raw.githubusercontent.com/ucdavisdatalab/adventures_in_data_science/master/img/CriticalDataViz_USPopulation_Ruggles_et_al_2020.JPG"
+
 # Overview
 
 This workshop led by UC Davis' Data Feminism research and learning cluster unpacks the subjective process of data visualization and its relationship to concepts of diversity, equity and inclusion. We’ll critically explore how data can be used to uphold and perpetuate, or quantify and demonstrate structural oppression. Through this workshop learners will practice the technique of “data visceralization,” the process of experiencing differences in data and understanding them viscerally.
+
 
 # Introduction
 
@@ -44,6 +50,7 @@ To build a responsible data visualization of a variable, or variables, in a data
 
 Example: a published visualization of population by sex from the US Census:
 
+![](`r url2`)
 
 A careful read of the data used in this visualization tells us:
 
@@ -61,7 +68,7 @@ A careful read of the data used in this visualization tells us:
 
 A better visualization of the US Census data could look like:
 
-
+![](`r url3`)
 
 ### Step 3: Visceralize Your Data
 
