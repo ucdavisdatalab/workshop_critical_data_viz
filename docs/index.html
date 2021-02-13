@@ -1564,8 +1564,13 @@ document.addEventListener('DOMContentLoaded', function() {
       <li><a href="#overview">Overview</a></li>
       <li><a href="#introduction">Introduction</a><ul>
       <li><a href="#learning-objectives">Learning Objectives</a></li>
+      <li><a href="#before-we-begin">Before We begin</a></li>
       </ul></li>
-      <li><a href="#before-we-begin">Before we begin</a><ul>
+      <li><a href="#critical-approaches-to-data-visualization">Critical Approaches to Data Visualization</a><ul>
+      <li><a href="#step-1-read-your-data-carefully">Step 1: Read Your Data Carefully</a></li>
+      <li><a href="#step-2-visualizing-data-responsibly">Step 2: Visualizing Data Responsibly</a></li>
+      </ul></li>
+      <li><a href="#case-studies">Case Studies</a><ul>
       <li><a href="#groups-1-and-2-covid-19-deaths">Groups 1 and 2: Covid-19 deaths</a></li>
       <li><a href="#groups-3-and-4-hurricane-maria-death-toll">Groups 3 and 4: Hurricane Maria death toll</a></li>
       <li><a href="#groups-5-and-6-drone-warfare-civilian-casualties">Groups 5 and 6: Drone warfare civilian casualties</a></li>
@@ -1573,7 +1578,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <li><a href="#groups-9-and-10-police-shootings">Groups 9 and 10: Police shootings</a></li>
       <li><a href="#groups-11-and-12-medical-error-deaths">Groups 11 and 12: Medical error deaths</a></li>
       </ul></li>
-      <li><a href="#critical-approach-to-data-visualization">Critical Approach to Data Visualization</a><ul>
+      <li><a href="#exercises">Exercises</a><ul>
       <li><a href="#step-one-read-data-critically">Step one: Read data critically</a></li>
       <li><a href="#step-two-visualize-your-data-responsibly">Step two: Visualize your data responsibly</a></li>
       <li><a href="#step-three-visceralize-your-data">Step three: Visceralize your data</a></li>
@@ -1610,9 +1615,54 @@ document.addEventListener('DOMContentLoaded', function() {
 <li>Consider visceralizing data in addition to visualizing them</li>
 </ul>
 </div>
+<div id="before-we-begin" class="section level2">
+<h2>Before We begin</h2>
+<p>This workshop provides strategies for thinking critically about your data. It will help you visualize your data in more responsible and responsive ways, and help you consider how to present your data in meaningful ways that demonstrate impact and evoke emotion. This workshop will not provide technical instruction in data visualization. This workshop arose from efforts by the <a href="https://datalab.ucdavis.edu/data-feminism/">UC Davis DataLab’s Data Feminism research and learning cluster</a>, established by Drs. Merchant, Poirier and Reynolds in fall of 2019 with support from the <a href="https://fri.ucdavis.edu/">Feminist Research Institute</a>.</p>
 </div>
-<div id="before-we-begin" class="section level1">
-<h1>Before we begin</h1>
+</div>
+<div id="critical-approaches-to-data-visualization" class="section level1">
+<h1>Critical Approaches to Data Visualization</h1>
+<div id="step-1-read-your-data-carefully" class="section level2">
+<h2>Step 1: Read Your Data Carefully</h2>
+<p>To build a responsible data visualization of a variable, or variables, in a dataset, you should critically explore the data. The following types of reading provide a helpful framework:</p>
+<ul>
+<li><strong>Denotative reading</strong> - What is the technical definition underlying this statistic? You can often find this information in the data dictionaries and metadata (when available).</li>
+<li><strong>Connotative reading</strong> - What is the cultural history of this definition? What controversies are there? How has this definition changed over time? Data collection documentation and grey literature can help you dig into this.</li>
+<li><strong>Deconstructive reading</strong> - What is included by this definition? Perform critical analyses of the definitions, categories and structures to begin to understand who and what is being left out.</li>
+</ul>
+<p>Example: a published visualization of population by sex from the US Census:</p>
+<p><img src="data:text/plain; charset=utf-8,404%3A%20Not%20Found" /></p>
+<p>A careful read of the data used in this visualization tells us:</p>
+<ul>
+<li>Dennotative: Sex classification is either male or female.</li>
+<li>Connotative reading: Prior to 1950, no definition was provided except M for male and F for female; the classification was done by enumerator inference and was assumed to be obvious. Starting in 1950, enumerators were provided with guidelines to use name or relationship to head of household to guide classification first, and to only ask if that information did not make it obvious. This indicates that “sex” may actually indicate gender prior to 1960.In 1970 sex was self-reported as either male or female. The 2020 census defined sex as “biological sex.” This is problematic for resolving with historical cesnsus data. The National LGBTQ Task Force’s Guide to the 2020 Census advised: “self-identify here in the way that feels most comfortable ot you… Your answer to this question does not need to match what you have on official documents… answer this question in whichever way feels best to you.”</li>
+<li>Deconstructive reading: Transgender, non-binary, and gender nonconforming individuals are marginalized, exlcuded, and not accurately characterized in the dataset.</li>
+</ul>
+</div>
+<div id="step-2-visualizing-data-responsibly" class="section level2">
+<h2>Step 2: Visualizing Data Responsibly</h2>
+<ul>
+<li><strong>Bring back the bodies</strong> - be clear on who is included, and who is excluded.</li>
+<li><strong>Show your work and give credit where due</strong> - cite your sources, methods, etc.</li>
+<li><strong>Acknowledge your standpoint</strong> - it is impossible to create perfectly objective visualizations.</li>
+<li><strong>Use appropriate text</strong> - titles, labels, captions, etc. can help readers better understand the complexities, and caveats, of the data.</li>
+</ul>
+<p>A better visualization of the US Census data could look like:</p>
+<p><img src="data:text/plain; charset=utf-8,404%3A%20Not%20Found" /></p>
+<div id="step-3-visceralize-your-data" class="section level3">
+<h3>Step 3: Visceralize Your Data</h3>
+<p><em>“One death is a tragedy, a million deaths a statistic”</em> (attributed to Stalin, 1947)</p>
+<p>How can you convey the importance of the data by evoking emotion?</p>
+<p>Examples:</p>
+<ul>
+<li><a href="https://guns.periscopic.com/?year=2013">US Gun Deaths</a></li>
+<li><a href="https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html">COVID deaths</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="case-studies" class="section level1">
+<h1>Case Studies</h1>
 <p>This workshop will involve some group work in breakout rooms. In our first breakout session, you will be able to choose the group you want to join. If possible, please join one that has no more than seven other members (eight people total). Make a note of the group number so that you can return to the same group for subsequent breakout sessions. Please work with the dataset assigned to your group:</p>
 <div id="groups-1-and-2-covid-19-deaths" class="section level2">
 <h2>Groups 1 and 2: Covid-19 deaths</h2>
@@ -1678,8 +1728,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p><a href="https://jamboard.google.com/d/10AJN8dGj_jtOncinakaF7zOj6wpKiXzbGvZO9xrT474/edit?usp=sharing">Jamboard for Breakout Sessions</a></p>
 </div>
 </div>
-<div id="critical-approach-to-data-visualization" class="section level1">
-<h1>Critical Approach to Data Visualization</h1>
+<div id="exercises" class="section level1">
+<h1>Exercises</h1>
 <div id="step-one-read-data-critically" class="section level2">
 <h2>Step one: Read data critically</h2>
 <p>In this section, you will learn the difference between denotative, connotatative, and deconstructive readings of a dataset; how to do each; and why all three are necessary in order to analyze and visualize your data accurately and responsibly.</p>
@@ -1699,6 +1749,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="resources" class="section level1">
 <h1>Resources</h1>
 <p>Check out our curated <a href="https://www.zotero.org/groups/2324756/data_feminism/items">Data Feminism reading list</a>.</p>
+<p>D’lgnazio, C., and Klein, L. 2020. Data Feminism. Cambridge, Massachusetts: The MIT Press.</p>
+<p>Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rhode, J., Hoffmann, A..</p>
 <p>UC Davis affiliates are welcome to join <a href="https://datalab.ucdavis.edu/data-feminism/">DataLab’s Data Feminism research and learning cluster</a>.</p>
 </div>
 </div>
